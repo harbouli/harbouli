@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @harbouli
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning PHP/MySQL
-- 📫 Email: Mohamed@harbouli.com
-- 🐱‍🏍 I can speak : HTML, CSS, Javascript, NextJS, NodeJS, ReactJS, React Native,  PHP and ThreeJS
-<!---
-harbouli/harbouli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=harbouli&show_icons=true&theme=synthwave" alt="harbouli:: Profile Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbouli&langs_count=10&theme=tokyonight&layout=compact" alt="harbouli:: Top Langs" /></p>
